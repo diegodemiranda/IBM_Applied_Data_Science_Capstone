@@ -1,9 +1,9 @@
-# Applied Data Science Capstone Project
+# Applied Data Science Capstone Project 💻
 
 ## Overview
-Welcome to the Applied Data Science Capstone Project, where we embark on a journey to predict the successful landing of the Falcon 9 first stage. SpaceX, known for revolutionizing space travel, advertises Falcon 9 rocket launches at a competitive cost of 62 million dollars, compared to other providers' costs upwards of 165 million dollars. This significant cost-saving is largely attributed to SpaceX's ability to reuse the first stage of the rocket. By accurately predicting the landing success of the first stage, we can better estimate the launch costs, providing valuable insights for companies bidding against SpaceX for rocket launches.
+Welcome to the Applied Data Science Capstone Project, where we embark on a journey to predict the successful landing of the Falcon 9 first stage. SpaceX, known for revolutionizing space travel, advertises Falcon 9 rocket launches 🚀 at a competitive cost of 62 million dollars, compared to other providers' costs upwards of 165 million dollars. This significant cost-saving is largely attributed to SpaceX's ability to reuse the first stage of the rocket. By accurately predicting the landing success of the first stage, we can better estimate the launch costs, providing valuable insights for companies bidding against SpaceX for rocket launches. 
 
-## Objectives
+## Objectives 🎯
 The project is structured into several comprehensive modules, each designed to build on the previous one, culminating in a robust predictive model. Below is a detailed description of the tasks and goals achieved in each module:
 
 ### 1. Request to the SpaceX API and Data Wrangling
@@ -35,21 +35,21 @@ The project is structured into several comprehensive modules, each designed to b
 - **Hyperparameter Tuning**: Performed hyperparameter tuning using GridSearchCV for various models, including SVM, Classification Trees, and Logistic Regression.
 - **Model Evaluation**: Evaluated each model's performance on the test data to identify the best-performing model.
 
-## Results
+## Results 📊
 - **Decision Tree Classifier**: Achieved the highest accuracy of 0.9444 on the test set, making it the best-performing model.
 - **SVM and K-Nearest Neighbors**: Both models attained an accuracy of 0.8333 on the test set.
 
-## Conclusion
+## Conclusion 💭
 Through meticulous data analysis, feature engineering, and model tuning, this project successfully predicted the landing success of the Falcon 9 first stage. The insights gained are invaluable for estimating launch costs and aiding companies in their competitive bids against SpaceX.
 
-## Repository Structure
+## Repository Structure 🏗️
 - **data/**: Contains the dataset and any data-related scripts.
 - **notebooks/**: Jupyter notebooks documenting each module of the project.
 - **scripts/**: Python scripts for data processing, visualization, and modeling.
 - **dash_app/**: Code for the Plotly Dash interactive application.
 - **README.md**: Comprehensive project overview and detailed description.
 
-## Acknowledgments
+## Acknowledgments 👏🏾
 - **IBM**: For providing the course and learning materials.
 - **Coursera**: For the platform to access and complete the course.
 
